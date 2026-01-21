@@ -1,6 +1,16 @@
 # biometric_login
 
-A new Flutter project.
+A Flutter application demonstrating biometric authentication login using fingerprint or face ID.
+
+<p align="center">
+  <img src="ScreenShots/Splash_screen.jpeg" width="240" />
+  <img src="ScreenShots/add_new_plant.jpeg" width="240" />
+  <img src="ScreenShots/biometric_screen.jpeg" width="240" />
+  <img src="ScreenShots/home_screen.jpeg" width="240" />
+  <img src="ScreenShots/info_screen.jpeg" width="240" />
+  <img src="ScreenShots/welcome_screen.jpeg" width="240" />
+</p>
+
 
 ## Getting Started
 
